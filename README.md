@@ -1,5 +1,5 @@
 For users
-=========
+=========sss
 bose-dfu is an open-source, command-line firmware update tool for certain Bose
 speakers and headphones. Unlike Bose's [official updater][btu], bose-dfu
 
